@@ -1,0 +1,18 @@
+version: "3.1"
+services:
+  client:
+    image: casus-angular-app
+    build: .
+    hostname: casus.client
+    ports:
+      - "8000:8000"
+  backend:
+     image: casus-api
+     build: .
+     hostname: casus.backend
+     ports:
+       - "3003:3000"
+  db:
+    image: mongo
+    ports:
+      - "27017:27017"

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Casus.Core\Casus.Core.csproj" />
+    <ProjectReference Include="..\Casus.DAL\Casus.DAL.Mongo.csproj" />
+  </ItemGroup>
+
+</Project>

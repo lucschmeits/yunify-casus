@@ -1,0 +1,9 @@
+C:\Users\Luc\source\repos\Casus\Casus.Core\bin\Debug\netcoreapp2.1\Casus.Core.deps.json
+C:\Users\Luc\source\repos\Casus\Casus.Core\bin\Debug\netcoreapp2.1\Casus.Core.dll
+C:\Users\Luc\source\repos\Casus\Casus.Core\bin\Debug\netcoreapp2.1\Casus.Core.pdb
+C:\Users\Luc\source\repos\Casus\Casus.Core\obj\Debug\netcoreapp2.1\Casus.Core.csprojAssemblyReference.cache
+C:\Users\Luc\source\repos\Casus\Casus.Core\obj\Debug\netcoreapp2.1\Casus.Core.csproj.CoreCompileInputs.cache
+C:\Users\Luc\source\repos\Casus\Casus.Core\obj\Debug\netcoreapp2.1\Casus.Core.AssemblyInfoInputs.cache
+C:\Users\Luc\source\repos\Casus\Casus.Core\obj\Debug\netcoreapp2.1\Casus.Core.AssemblyInfo.cs
+C:\Users\Luc\source\repos\Casus\Casus.Core\obj\Debug\netcoreapp2.1\Casus.Core.dll
+C:\Users\Luc\source\repos\Casus\Casus.Core\obj\Debug\netcoreapp2.1\Casus.Core.pdb

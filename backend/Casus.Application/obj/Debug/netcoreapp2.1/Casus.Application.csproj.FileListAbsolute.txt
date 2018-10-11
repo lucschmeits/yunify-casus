@@ -1,0 +1,16 @@
+C:\Users\Luc\source\repos\Casus\Casus.Application\bin\Debug\netcoreapp2.1\Casus.Application.deps.json
+C:\Users\Luc\source\repos\Casus\Casus.Application\bin\Debug\netcoreapp2.1\Casus.Application.dll
+C:\Users\Luc\source\repos\Casus\Casus.Application\bin\Debug\netcoreapp2.1\Casus.Application.pdb
+C:\Users\Luc\source\repos\Casus\Casus.Application\obj\Debug\netcoreapp2.1\Casus.Application.csprojAssemblyReference.cache
+C:\Users\Luc\source\repos\Casus\Casus.Application\obj\Debug\netcoreapp2.1\Casus.Application.csproj.CoreCompileInputs.cache
+C:\Users\Luc\source\repos\Casus\Casus.Application\obj\Debug\netcoreapp2.1\Casus.Application.AssemblyInfoInputs.cache
+C:\Users\Luc\source\repos\Casus\Casus.Application\obj\Debug\netcoreapp2.1\Casus.Application.AssemblyInfo.cs
+C:\Users\Luc\source\repos\Casus\Casus.Application\obj\Debug\netcoreapp2.1\Casus.Application.dll
+C:\Users\Luc\source\repos\Casus\Casus.Application\obj\Debug\netcoreapp2.1\Casus.Application.pdb
+C:\Users\Luc\source\repos\Casus\Casus.Application\bin\Debug\netcoreapp2.1\Casus.Core.dll
+C:\Users\Luc\source\repos\Casus\Casus.Application\bin\Debug\netcoreapp2.1\Casus.Core.pdb
+C:\Users\Luc\source\repos\Casus\Casus.Application\obj\Debug\netcoreapp2.1\Casus.Application.csproj.CopyComplete
+C:\Users\Luc\source\repos\Casus\Casus.Application\bin\Debug\netcoreapp2.1\Casus.DAL.Mongo.dll
+C:\Users\Luc\source\repos\Casus\Casus.Application\bin\Debug\netcoreapp2.1\Casus.DAL.Mongo.pdb
+C:\Users\Luc\source\repos\Casus\Casus.Application\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.dll
+C:\Users\Luc\source\repos\Casus\Casus.Application\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.xml

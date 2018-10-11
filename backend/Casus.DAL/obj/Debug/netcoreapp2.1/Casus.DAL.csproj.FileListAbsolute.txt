@@ -1,0 +1,9 @@
+C:\Users\Luc\source\repos\Casus\Casus.DAL\bin\Debug\netcoreapp2.1\Casus.DAL.deps.json
+C:\Users\Luc\source\repos\Casus\Casus.DAL\bin\Debug\netcoreapp2.1\Casus.DAL.dll
+C:\Users\Luc\source\repos\Casus\Casus.DAL\bin\Debug\netcoreapp2.1\Casus.DAL.pdb
+C:\Users\Luc\source\repos\Casus\Casus.DAL\obj\Debug\netcoreapp2.1\Casus.DAL.csprojAssemblyReference.cache
+C:\Users\Luc\source\repos\Casus\Casus.DAL\obj\Debug\netcoreapp2.1\Casus.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Luc\source\repos\Casus\Casus.DAL\obj\Debug\netcoreapp2.1\Casus.DAL.AssemblyInfoInputs.cache
+C:\Users\Luc\source\repos\Casus\Casus.DAL\obj\Debug\netcoreapp2.1\Casus.DAL.AssemblyInfo.cs
+C:\Users\Luc\source\repos\Casus\Casus.DAL\obj\Debug\netcoreapp2.1\Casus.DAL.dll
+C:\Users\Luc\source\repos\Casus\Casus.DAL\obj\Debug\netcoreapp2.1\Casus.DAL.pdb

@@ -1,0 +1,46 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Offices</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="col-md-12 bg-white shadow mt-4 p-4">
+    <h3>Add Office</h3>
+    <form (ngSubmit)="onSubmit(newOffice)" #newOffice="ngForm">
+      <div class="form-group">
+        <label for="InputName">Name</label>
+        <input type="text" class="form-control" id="InputName" placeholder="Enter name" [(ngModel)]="name" name="Name" #InputName="ngModel">
+      </div>
+      <div class="form-group">
+          <label for="InputLocation">Location</label>
+          <input type="text" class="form-control" id="InputLocation" placeholder="Enter location" [(ngModel)]="location" name="Location" #InputLocation="ngModel">
+      </div>
+      <div class="form-group">
+          <label for="InputOpenHour">OpenHour</label>
+          <input type="time" class="form-control" id="InputOpenHour" placeholder="Enter location" [(ngModel)]="openHour" name="OpenHour" #InputOpenHour="ngModel">
+      </div>
+      <div class="form-group">
+          <label for="InputCloseHour">CloseHour</label>
+          <input type="time" class="form-control" id="InputCloseHour" placeholder="Enter location" [(ngModel)]="closeHour" name="CloseHour" #InputCloseHour="ngModel">
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+  </div>
+</div>
+
+<div class="container">
+  <div class="col-md-12">
+    <div *ngFor="let office of offices">
+        <p>{{office.name}}</p>
+    </div>
+  </div>
+</div>
